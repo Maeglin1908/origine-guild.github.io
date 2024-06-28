@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'fr-fr'
+title = 'Guilde Origine'
+theme = 'hugo-theme-techdoc'
